@@ -1,0 +1,245 @@
+\hypertarget{class_pdo_forma}{}\section{Référence de la classe Pdo\+Forma}
+\label{class_pdo_forma}\index{Pdo\+Forma@{Pdo\+Forma}}
+\subsection*{Fonctions membres publiques}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_pdo_forma_a1c6024f681d3956654622d9f28e540a2}{\+\_\+destruct} ()
+\end{DoxyCompactItemize}
+\subsection*{Fonctions membres publiques statiques}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_pdo_forma_a601381ed4cb812a64d3ce4ea2afda54c}{get\+Pdo\+Forma} ()
+\item 
+static \hyperlink{class_pdo_forma_a0055e16568d6f583c27d78942cbb6149}{inscription\+Asso} (\$icom, \$nom\+Asso, \$nom\+Intend, \$prenom\+Intend, \$mail\+Asso, \$tel\+Asso, \$fax\+Asso, \$mdp\+Asso)
+\item 
+static \hyperlink{class_pdo_forma_a8d1c2949e653ed53bd49bffe77836c34}{connexion\+Asso} (\$identifiant, \$motdepasse)
+\item 
+static \hyperlink{class_pdo_forma_a3e93ce87ef2f5471efa2681b9a4017e8}{ajout\+Membres\+Asso} (\$icom\+Asso, \$nom\+Util, \$prenom\+Util, \$type\+Util)
+\item 
+static \hyperlink{class_pdo_forma_a1ed6a3ae06e68ca5841cadbe2a1ada4d}{consult\+Membres\+Asso} (\$icom\+Asso)
+\item 
+static \hyperlink{class_pdo_forma_a6b0368c6ed04e1f232c16f2ffb728682}{suppr\+Membre\+Utilisateur} (\$id\+Utilisateur)
+\item 
+static \hyperlink{class_pdo_forma_ab0ba792e63b05b25d4008cfc0249cc32}{consult\+Domaines} ()
+\item 
+static \hyperlink{class_pdo_forma_a8d2afe1b1a15c9873025e9ed5e341a49}{consult\+Formations} (\$code\+Dom)
+\item 
+static \hyperlink{class_pdo_forma_adae951900094053772ea21c05ae629b8}{consult\+Sessions} ()
+\item 
+static \hyperlink{class_pdo_forma_add37d6d8cd9e0b54f60bc5bfb9faa4c9}{consult\+La\+Session} (\$id\+Session)
+\item 
+static \hyperlink{class_pdo_forma_a36c9d6b8d10a8596f03c1cd78307b044}{ajout\+Membre\+Session} (\$utilisateur, \$codedom, \$codeform, \$session)
+\end{DoxyCompactItemize}
+
+
+\subsection{Description détaillée}
+
+
+Définition à la ligne 17 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+
+
+\subsection{Documentation des fonctions membres}
+\index{Pdo\+Forma@{Pdo\+Forma}!\+\_\+destruct@{\+\_\+destruct}}
+\index{\+\_\+destruct@{\+\_\+destruct}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{\+\_\+destruct()}{_destruct()}}]{\setlength{\rightskip}{0pt plus 5cm}\+\_\+destruct (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{class_pdo_forma_a1c6024f681d3956654622d9f28e540a2}{}\label{class_pdo_forma_a1c6024f681d3956654622d9f28e540a2}
+
+
+Définition à la ligne 34 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!ajout\+Membres\+Asso@{ajout\+Membres\+Asso}}
+\index{ajout\+Membres\+Asso@{ajout\+Membres\+Asso}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{ajout\+Membres\+Asso(\$icom\+Asso, \$nom\+Util, \$prenom\+Util, \$type\+Util)}{ajoutMembresAsso($icomAsso, $nomUtil, $prenomUtil, $typeUtil)}}]{\setlength{\rightskip}{0pt plus 5cm}static ajout\+Membres\+Asso (
+\begin{DoxyParamCaption}
+\item[{}]{\$icom\+Asso, }
+\item[{}]{\$nom\+Util, }
+\item[{}]{\$prenom\+Util, }
+\item[{}]{\$type\+Util}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a3e93ce87ef2f5471efa2681b9a4017e8}{}\label{class_pdo_forma_a3e93ce87ef2f5471efa2681b9a4017e8}
+Fonction statique qui insère un utilisateur dans l\textquotesingle{}association
+
+param \+: \$icom\+Asso,\$nom\+Util, \$prenom\+Util, \$type\+Util \begin{DoxyReturn}{Renvoie}
+true ou false si l\textquotesingle{}insertion est faite 
+\end{DoxyReturn}
+
+
+Définition à la ligne 89 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!ajout\+Membre\+Session@{ajout\+Membre\+Session}}
+\index{ajout\+Membre\+Session@{ajout\+Membre\+Session}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{ajout\+Membre\+Session(\$utilisateur, \$codedom, \$codeform, \$session)}{ajoutMembreSession($utilisateur, $codedom, $codeform, $session)}}]{\setlength{\rightskip}{0pt plus 5cm}static ajout\+Membre\+Session (
+\begin{DoxyParamCaption}
+\item[{}]{\$utilisateur, }
+\item[{}]{\$codedom, }
+\item[{}]{\$codeform, }
+\item[{}]{\$session}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a36c9d6b8d10a8596f03c1cd78307b044}{}\label{class_pdo_forma_a36c9d6b8d10a8596f03c1cd78307b044}
+Fonction statique qui insère un utilisateur dans une session
+
+param \+: \$utilisateur,\$codedom,\$codeform,\$session \begin{DoxyReturn}{Renvoie}
+true ou false si l\textquotesingle{}insertion est faite 
+\end{DoxyReturn}
+
+
+Définition à la ligne 189 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!connexion\+Asso@{connexion\+Asso}}
+\index{connexion\+Asso@{connexion\+Asso}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{connexion\+Asso(\$identifiant, \$motdepasse)}{connexionAsso($identifiant, $motdepasse)}}]{\setlength{\rightskip}{0pt plus 5cm}static connexion\+Asso (
+\begin{DoxyParamCaption}
+\item[{}]{\$identifiant, }
+\item[{}]{\$motdepasse}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a8d1c2949e653ed53bd49bffe77836c34}{}\label{class_pdo_forma_a8d1c2949e653ed53bd49bffe77836c34}
+Fonction statique qui vérifier les identifiants d\textquotesingle{}une association
+
+param \+: \$identifiant, \$motdepasse \begin{DoxyReturn}{Renvoie}
+true ou false si les identifiants sont bons 
+\end{DoxyReturn}
+
+
+Définition à la ligne 75 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!consult\+Domaines@{consult\+Domaines}}
+\index{consult\+Domaines@{consult\+Domaines}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{consult\+Domaines()}{consultDomaines()}}]{\setlength{\rightskip}{0pt plus 5cm}static consult\+Domaines (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_ab0ba792e63b05b25d4008cfc0249cc32}{}\label{class_pdo_forma_ab0ba792e63b05b25d4008cfc0249cc32}
+Fonction statique qui renvoit la liste des domaines
+
+\begin{DoxyReturn}{Renvoie}
+un tableau d\textquotesingle{}enregistrement 
+\end{DoxyReturn}
+
+
+Définition à la ligne 134 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!consult\+Formations@{consult\+Formations}}
+\index{consult\+Formations@{consult\+Formations}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{consult\+Formations(\$code\+Dom)}{consultFormations($codeDom)}}]{\setlength{\rightskip}{0pt plus 5cm}static consult\+Formations (
+\begin{DoxyParamCaption}
+\item[{}]{\$code\+Dom}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a8d2afe1b1a15c9873025e9ed5e341a49}{}\label{class_pdo_forma_a8d2afe1b1a15c9873025e9ed5e341a49}
+Fonction statique qui renvoit la liste des formations en fonction du domaine selectionné
+
+\begin{DoxyReturn}{Renvoie}
+un tableau d\textquotesingle{}enregistrement 
+\end{DoxyReturn}
+
+
+Définition à la ligne 147 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!consult\+La\+Session@{consult\+La\+Session}}
+\index{consult\+La\+Session@{consult\+La\+Session}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{consult\+La\+Session(\$id\+Session)}{consultLaSession($idSession)}}]{\setlength{\rightskip}{0pt plus 5cm}static consult\+La\+Session (
+\begin{DoxyParamCaption}
+\item[{}]{\$id\+Session}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_add37d6d8cd9e0b54f60bc5bfb9faa4c9}{}\label{class_pdo_forma_add37d6d8cd9e0b54f60bc5bfb9faa4c9}
+Fonction statique qui renvoit une des sessions param \+: \$id\+Session \begin{DoxyReturn}{Renvoie}
+un tableau d\textquotesingle{}enregistrement 
+\end{DoxyReturn}
+
+
+Définition à la ligne 174 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!consult\+Membres\+Asso@{consult\+Membres\+Asso}}
+\index{consult\+Membres\+Asso@{consult\+Membres\+Asso}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{consult\+Membres\+Asso(\$icom\+Asso)}{consultMembresAsso($icomAsso)}}]{\setlength{\rightskip}{0pt plus 5cm}static consult\+Membres\+Asso (
+\begin{DoxyParamCaption}
+\item[{}]{\$icom\+Asso}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a1ed6a3ae06e68ca5841cadbe2a1ada4d}{}\label{class_pdo_forma_a1ed6a3ae06e68ca5841cadbe2a1ada4d}
+Fonction statique qui consulte tous les utilisateurs de l\textquotesingle{}association
+
+param \+: \$icom\+Asso \begin{DoxyReturn}{Renvoie}
+un tableau d\textquotesingle{}enregistrement 
+\end{DoxyReturn}
+
+
+Définition à la ligne 110 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!consult\+Sessions@{consult\+Sessions}}
+\index{consult\+Sessions@{consult\+Sessions}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{consult\+Sessions()}{consultSessions()}}]{\setlength{\rightskip}{0pt plus 5cm}static consult\+Sessions (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_adae951900094053772ea21c05ae629b8}{}\label{class_pdo_forma_adae951900094053772ea21c05ae629b8}
+Fonction statique qui renvoit la liste des sessions
+
+\begin{DoxyReturn}{Renvoie}
+un tableau d\textquotesingle{}enregistrement 
+\end{DoxyReturn}
+
+
+Définition à la ligne 160 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!get\+Pdo\+Forma@{get\+Pdo\+Forma}}
+\index{get\+Pdo\+Forma@{get\+Pdo\+Forma}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{get\+Pdo\+Forma()}{getPdoForma()}}]{\setlength{\rightskip}{0pt plus 5cm}static get\+Pdo\+Forma (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a601381ed4cb812a64d3ce4ea2afda54c}{}\label{class_pdo_forma_a601381ed4cb812a64d3ce4ea2afda54c}
+Fonction statique qui crée l\textquotesingle{}unique instance de la classe
+
+Appel \+: \$instance\+Pdo\+Forma = \hyperlink{class_pdo_forma_a601381ed4cb812a64d3ce4ea2afda54c}{Pdo\+Forma\+::get\+Pdo\+Forma()}; \begin{DoxyReturn}{Renvoie}
+l\textquotesingle{}unique objet de la classe \hyperlink{class_pdo_forma}{Pdo\+Forma} 
+\end{DoxyReturn}
+
+
+Définition à la ligne 43 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!inscription\+Asso@{inscription\+Asso}}
+\index{inscription\+Asso@{inscription\+Asso}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{inscription\+Asso(\$icom, \$nom\+Asso, \$nom\+Intend, \$prenom\+Intend, \$mail\+Asso, \$tel\+Asso, \$fax\+Asso, \$mdp\+Asso)}{inscriptionAsso($icom, $nomAsso, $nomIntend, $prenomIntend, $mailAsso, $telAsso, $faxAsso, $mdpAsso)}}]{\setlength{\rightskip}{0pt plus 5cm}static inscription\+Asso (
+\begin{DoxyParamCaption}
+\item[{}]{\$icom, }
+\item[{}]{\$nom\+Asso, }
+\item[{}]{\$nom\+Intend, }
+\item[{}]{\$prenom\+Intend, }
+\item[{}]{\$mail\+Asso, }
+\item[{}]{\$tel\+Asso, }
+\item[{}]{\$fax\+Asso, }
+\item[{}]{\$mdp\+Asso}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a0055e16568d6f583c27d78942cbb6149}{}\label{class_pdo_forma_a0055e16568d6f583c27d78942cbb6149}
+Fonction statique vérifie la connexion d\textquotesingle{}un utilisateur
+
+param \+: \$identifiant et \$motdepasse Fonction statique qui inscrit l\textquotesingle{}inscription d\textquotesingle{}une association
+
+param \+: \$icom, \$nom\+Asso, \$nom\+Intend, \$prenom\+Intend, \$mail\+Asso, \$tel\+Asso, \$fax\+Asso, \$mdp\+Asso, \$moda \begin{DoxyReturn}{Renvoie}
+true ou false en fonction de la creation 
+\end{DoxyReturn}
+
+
+Définition à la ligne 63 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+\index{Pdo\+Forma@{Pdo\+Forma}!suppr\+Membre\+Utilisateur@{suppr\+Membre\+Utilisateur}}
+\index{suppr\+Membre\+Utilisateur@{suppr\+Membre\+Utilisateur}!Pdo\+Forma@{Pdo\+Forma}}
+\subsubsection[{\texorpdfstring{suppr\+Membre\+Utilisateur(\$id\+Utilisateur)}{supprMembreUtilisateur($idUtilisateur)}}]{\setlength{\rightskip}{0pt plus 5cm}static suppr\+Membre\+Utilisateur (
+\begin{DoxyParamCaption}
+\item[{}]{\$id\+Utilisateur}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\hypertarget{class_pdo_forma_a6b0368c6ed04e1f232c16f2ffb728682}{}\label{class_pdo_forma_a6b0368c6ed04e1f232c16f2ffb728682}
+Fonction statique qui supprime un utilisateur dans l\textquotesingle{}association
+
+param \+: \$id\+Utilisateur 
+
+Définition à la ligne 123 du fichier class.\+pdo\+Forma.\+inc.\+php.
+
+
+
+La documentation de cette classe a été générée à partir du fichier suivant \+:\begin{DoxyCompactItemize}
+\item 
+modele/forma/\hyperlink{class_8pdo_forma_8inc_8php}{class.\+pdo\+Forma.\+inc.\+php}\end{DoxyCompactItemize}
