@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b59fb4f-53db-4c3f-8877-3faba11f6138" name="Default" comment="" />
+    <list default="true" id="0b59fb4f-53db-4c3f-8877-3faba11f6138" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controleur/forma/c_ajoutUtilisateurAsso.php" afterPath="$PROJECT_DIR$/controleur/forma/c_ajoutUtilisateurAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controleur/forma/c_connexionAsso.php" afterPath="$PROJECT_DIR$/controleur/forma/c_connexionAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controleur/forma/c_inscriptionAsso.php" afterPath="$PROJECT_DIR$/controleur/forma/c_inscriptionAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controleur/forma/c_inscriptionSessions.php" afterPath="$PROJECT_DIR$/controleur/forma/c_inscriptionSessions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controleur/forma/c_supprUtilisateurAsso.php" afterPath="$PROJECT_DIR$/controleur/forma/c_supprUtilisateurAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="$PROJECT_DIR$/css/materialize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/material-design-icons/LICENSE.txt" afterPath="$PROJECT_DIR$/font/material-design-icons/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.svg" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.js" afterPath="$PROJECT_DIR$/js/materialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.min.js" afterPath="$PROJECT_DIR$/js/materialize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/forma/class.pdoForma.inc.php" afterPath="$PROJECT_DIR$/modele/forma/class.pdoForma.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modele/forma/fonctions.inc.php" afterPath="$PROJECT_DIR$/modele/forma/fonctions.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_accueil.php" afterPath="$PROJECT_DIR$/vue/forma/v_accueil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_administration.php" afterPath="$PROJECT_DIR$/vue/forma/v_administration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_connexion.php" afterPath="$PROJECT_DIR$/vue/forma/v_connexion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_entete.php" afterPath="$PROJECT_DIR$/vue/forma/v_entete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_footer.php" afterPath="$PROJECT_DIR$/vue/forma/v_footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_header.php" afterPath="$PROJECT_DIR$/vue/forma/v_header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_headerAsso.php" afterPath="$PROJECT_DIR$/vue/forma/v_headerAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_inscription.php" afterPath="$PROJECT_DIR$/vue/forma/v_inscription.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_interfaceAsso.php" afterPath="$PROJECT_DIR$/vue/forma/v_interfaceAsso.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/forma/v_modalites.php" afterPath="$PROJECT_DIR$/vue/forma/v_modalites.php" />
+    </list>
     <ignored path="FORMA.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +46,7 @@
     <favorites_list name="FORMA" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,11 +60,9 @@
       <file leaf-file-name="v_interfaceAsso.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue/forma/v_interfaceAsso.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="1984">
               <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
-              <folding>
-                <element signature="n#div#0;n#form#0;n#div#0;n#!!top" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,27 +70,30 @@
       <file leaf-file-name="class.pdoForma.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modele/forma/class.pdoForma.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4247">
-              <caret line="162" column="131" selection-start-line="162" selection-start-column="131" selection-end-line="162" selection-end-column="131" />
+            <state relative-caret-position="3962">
+              <caret line="146" column="46" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
               <folding>
-                <marker date="1463739873441" expanded="true" signature="1836:2067" placeholder="INSERT INTO association... " />
-                <marker date="1463739873441" expanded="true" signature="2371:2453" placeholder="SELECT * FRO... association" />
-                <marker date="1463739873441" expanded="true" signature="2852:2979" placeholder="INSERT INTO utilisateur... " />
-                <marker date="1463739873441" expanded="true" signature="3383:3435" placeholder="SELECT * FRO... utilisateur" />
-                <marker date="1463739873441" expanded="true" signature="3737:3793" placeholder="DELETE FROM " />
-                <marker date="1463739873441" expanded="true" signature="4006:4027" placeholder="SELECT * FRO... DOMAINE" />
-                <marker date="1463739873441" expanded="true" signature="4355:4396" placeholder="SELECT * FRO... FORMATION" />
-                <marker date="1463739873441" expanded="true" signature="4742:4942" placeholder="SELECT NUM_S... session" />
-                <marker date="1463739873441" expanded="true" signature="5305:5359" placeholder="SELECT * FRO... SESSION" />
-                <marker date="1463739873441" expanded="true" signature="5800:5862" placeholder="SELECT PLACE... SESSION" />
-                <marker date="1463739873441" expanded="true" signature="6048:6174" placeholder="INSERT INTO participe... " />
-                <marker date="1463739873441" expanded="true" signature="6279:6356" placeholder="UPDATE sessi... " />
+                <marker date="1463739875000" expanded="true" signature="1836:2067" ph="INSERT INTO association... " />
+                <marker date="1463739875000" expanded="true" signature="2371:2453" ph="SELECT * FRO... association" />
+                <marker date="1463739875000" expanded="true" signature="2852:2979" ph="INSERT INTO utilisateur... " />
+                <marker date="1463739875000" expanded="true" signature="3383:3435" ph="SELECT * FRO... utilisateur" />
+                <marker date="1463739875000" expanded="true" signature="3737:3793" ph="DELETE FROM " />
+                <marker date="1463739875000" expanded="true" signature="4006:4027" ph="SELECT * FRO... DOMAINE" />
+                <marker date="1463739875000" expanded="true" signature="4355:4396" ph="SELECT * FRO... FORMATION" />
+                <marker date="1463739875000" expanded="true" signature="4742:4942" ph="SELECT NUM_S... session" />
+                <marker date="1463739875000" expanded="true" signature="5305:5359" ph="SELECT * FRO... SESSION" />
+                <marker date="1463739875000" expanded="true" signature="5800:5862" ph="SELECT PLACE... SESSION" />
+                <marker date="1463739875000" expanded="true" signature="6048:6174" ph="INSERT INTO participe... " />
+                <marker date="1463739875000" expanded="true" signature="6279:6356" ph="UPDATE sessi... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -94,10 +120,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
-    <option name="y" value="304" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -124,78 +150,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
+              <option name="myItemId" value="Forma-Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
+              <option name="myItemId" value="Forma-Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forma" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modele" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forma" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FORMA" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Forma-Web" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +195,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -243,33 +225,34 @@
       <option name="presentableId" value="Default" />
       <updated>1463735316390</updated>
       <workItem from="1463735320978" duration="5519000" />
+      <workItem from="1464524709285" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5519000" />
+    <option name="totallyTimeSpent" value="5546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="304" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35800603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36155483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -290,11 +273,47 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/forma/v_interfaceAsso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1984">
+          <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modele/forma/class.pdoForma.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4619">
+          <caret line="162" column="131" selection-start-line="162" selection-start-column="131" selection-end-line="162" selection-end-column="131" />
+          <folding>
+            <marker date="1463739875000" expanded="true" signature="1836:2067" ph="INSERT INTO association... " />
+            <marker date="1463739875000" expanded="true" signature="2371:2453" ph="SELECT * FRO... association" />
+            <marker date="1463739875000" expanded="true" signature="2852:2979" ph="INSERT INTO utilisateur... " />
+            <marker date="1463739875000" expanded="true" signature="3383:3435" ph="SELECT * FRO... utilisateur" />
+            <marker date="1463739875000" expanded="true" signature="3737:3793" ph="DELETE FROM " />
+            <marker date="1463739875000" expanded="true" signature="4006:4027" ph="SELECT * FRO... DOMAINE" />
+            <marker date="1463739875000" expanded="true" signature="4355:4396" ph="SELECT * FRO... FORMATION" />
+            <marker date="1463739875000" expanded="true" signature="4742:4942" ph="SELECT NUM_S... session" />
+            <marker date="1463739875000" expanded="true" signature="5305:5359" ph="SELECT * FRO... SESSION" />
+            <marker date="1463739875000" expanded="true" signature="5800:5862" ph="SELECT PLACE... SESSION" />
+            <marker date="1463739875000" expanded="true" signature="6048:6174" ph="INSERT INTO participe... " />
+            <marker date="1463739875000" expanded="true" signature="6279:6356" ph="UPDATE sessi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modele/forma/fonctions.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -302,7 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -310,7 +328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,7 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -326,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -334,7 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -342,7 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-186">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,7 +363,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,7 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -366,7 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -374,7 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -382,7 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,7 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="5583" column="137" selection-start-line="5583" selection-start-column="132" selection-end-line="5583" selection-end-column="137" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -398,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -412,31 +418,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vue/forma/v_interfaceAsso.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="1984">
           <caret line="64" column="60" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="60" />
-          <folding>
-            <element signature="n#div#0;n#form#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modele/forma/class.pdoForma.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4247">
-          <caret line="162" column="131" selection-start-line="162" selection-start-column="131" selection-end-line="162" selection-end-column="131" />
+        <state relative-caret-position="3962">
+          <caret line="146" column="46" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
           <folding>
-            <marker date="1463739873441" expanded="true" signature="1836:2067" placeholder="INSERT INTO association... " />
-            <marker date="1463739873441" expanded="true" signature="2371:2453" placeholder="SELECT * FRO... association" />
-            <marker date="1463739873441" expanded="true" signature="2852:2979" placeholder="INSERT INTO utilisateur... " />
-            <marker date="1463739873441" expanded="true" signature="3383:3435" placeholder="SELECT * FRO... utilisateur" />
-            <marker date="1463739873441" expanded="true" signature="3737:3793" placeholder="DELETE FROM " />
-            <marker date="1463739873441" expanded="true" signature="4006:4027" placeholder="SELECT * FRO... DOMAINE" />
-            <marker date="1463739873441" expanded="true" signature="4355:4396" placeholder="SELECT * FRO... FORMATION" />
-            <marker date="1463739873441" expanded="true" signature="4742:4942" placeholder="SELECT NUM_S... session" />
-            <marker date="1463739873441" expanded="true" signature="5305:5359" placeholder="SELECT * FRO... SESSION" />
-            <marker date="1463739873441" expanded="true" signature="5800:5862" placeholder="SELECT PLACE... SESSION" />
-            <marker date="1463739873441" expanded="true" signature="6048:6174" placeholder="INSERT INTO participe... " />
-            <marker date="1463739873441" expanded="true" signature="6279:6356" placeholder="UPDATE sessi... " />
+            <marker date="1463739875000" expanded="true" signature="1836:2067" ph="INSERT INTO association... " />
+            <marker date="1463739875000" expanded="true" signature="2371:2453" ph="SELECT * FRO... association" />
+            <marker date="1463739875000" expanded="true" signature="2852:2979" ph="INSERT INTO utilisateur... " />
+            <marker date="1463739875000" expanded="true" signature="3383:3435" ph="SELECT * FRO... utilisateur" />
+            <marker date="1463739875000" expanded="true" signature="3737:3793" ph="DELETE FROM " />
+            <marker date="1463739875000" expanded="true" signature="4006:4027" ph="SELECT * FRO... DOMAINE" />
+            <marker date="1463739875000" expanded="true" signature="4355:4396" ph="SELECT * FRO... FORMATION" />
+            <marker date="1463739875000" expanded="true" signature="4742:4942" ph="SELECT NUM_S... session" />
+            <marker date="1463739875000" expanded="true" signature="5305:5359" ph="SELECT * FRO... SESSION" />
+            <marker date="1463739875000" expanded="true" signature="5800:5862" ph="SELECT PLACE... SESSION" />
+            <marker date="1463739875000" expanded="true" signature="6048:6174" ph="INSERT INTO participe... " />
+            <marker date="1463739875000" expanded="true" signature="6279:6356" ph="UPDATE sessi... " />
           </folding>
         </state>
       </provider>
